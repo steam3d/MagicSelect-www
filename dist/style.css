@@ -44,8 +44,8 @@ body {
 .justify-end {
   justify-content: flex-end;
 }
-.justify-space-around {
-  justify-content: space-around;
+.justify-space-evenly {
+  justify-content: space-evenly;
 }
 .w-100 {
   width: 100%;
